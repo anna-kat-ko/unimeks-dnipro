@@ -36,7 +36,7 @@ export const site: SiteContent = {
     ],
     eventDetails: {
       address: "просп. Слобожанський, 35",
-      date: "11 жовтня 2026",
+      date: "18 жовтня 2026",
       time: "14:30",
     },
     compare: {
@@ -145,7 +145,7 @@ export const site: SiteContent = {
 
   contacts: {
     address: "просп. Слобожанський, 35",
-    hours: "11 жовтня 2026, 14:30",
+    hours: "18 жовтня 2026, 14:30",
     mapEmbed:
       "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x40d9587bcc0ab977:0xc6e1c7242233c0ad!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF",
     social: [
